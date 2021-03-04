@@ -27,3 +27,6 @@ xlrd==1.2.*
 ### tensorflow-notebook
 
 tensorflow==2.0.0
+pandas==1.2.*
+matplotlib==3.3.*
+keras==2.4*
